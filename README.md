@@ -1,6 +1,9 @@
-Sure, I can help you craft a compelling GitHub profile README! Here's a draft for you:
 
 ---
+
+## 📝 Portfolio
+
+Check out my work: [My Portfolio](https://bharti-javascriptt.github.io/javascript-project/)
 
 # Hi there, I'm Bharti! 👋
 
@@ -20,9 +23,6 @@ I'm a passionate MERN Stack developer with a knack for creating dynamic and enga
 - **Database:** MongoDB
 - **Tools & Platforms:** Git, GitHub, VS Code
 
-## 📝 Portfolio
-
-Check out my work: [My Portfolio](https://bharti-javascriptt.github.io/javascript-project/)
 
 ## 🔥 Current Projects
 
