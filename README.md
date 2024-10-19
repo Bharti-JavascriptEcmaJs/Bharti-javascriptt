@@ -1,12 +1,12 @@
 
 
----
 
 ## 📝 Portfolio
 
 Click the link 
 1. https://grocery-app-indol.vercel.app/
-2. bharti-javascriptt.github.io/javascript-project/
+2. https://bharti-javascriptt.github.io/javascript-project/
+
 
 
 # Hi there, I'm Bharti! 👋
