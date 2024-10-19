@@ -4,7 +4,7 @@
 
 ## 📝 Portfolio
 
-Check out my work: [My Portfolio](https://bharti-javascriptt.github.io/javascript-project/)
+Check out my work: [My Portfolio](https://grocery-app-indol.vercel.app/)
 
 
 # Hi there, I'm Bharti! 👋
