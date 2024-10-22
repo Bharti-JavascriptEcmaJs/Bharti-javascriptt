@@ -5,7 +5,6 @@
 
 Click the link 
 
-1. https://bharti-javascriptt.github.io/javascript-project/
 
 
 
