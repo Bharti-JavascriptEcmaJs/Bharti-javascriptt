@@ -3,12 +3,12 @@
 
 ## 📝 Portfolio
 
-Click the link 
+Click the link :https://bharti-javascriptt.github.io/javascript-project/
 
 
 
 
-# Hi there, I'm Full Stack Developer! 👋
+# Hi there,My name is Bharti Dwivedi. I'm Full Stack Developer! 👋
 
 I'm a passionate MERN Stack developer with a knack for creating dynamic and engaging web applications. I thrive on turning ideas into functional and beautiful code.
 
