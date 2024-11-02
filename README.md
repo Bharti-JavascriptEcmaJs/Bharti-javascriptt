@@ -35,5 +35,4 @@ I'm a passionate MERN Stack developer with a knack for creating dynamic and enga
 
 ## 🔥 Current Projects
 
-)
 
