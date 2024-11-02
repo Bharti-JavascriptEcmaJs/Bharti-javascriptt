@@ -3,11 +3,7 @@
 
 ## 📝 Portfolio
 
-Click the link :https://bharti-javascriptt.github.io/javascript-project/
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-123-blue)
-
-![Profile Views](YOUR_BADGE_LINK_HERE)
+Click the link :https://bharti-JavascriptEcmaJs.github.io/javascript-project/
 
 
 
